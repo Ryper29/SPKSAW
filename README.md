@@ -119,12 +119,6 @@ spksaw/
 
 ---
 
-## 📸 Screenshot
-
-> *(Tambahkan screenshot aplikasi di sini)*
-
----
-
 ## 👤 Author
 
 **Ryper29**
