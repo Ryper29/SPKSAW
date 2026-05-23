@@ -1,0 +1,23 @@
+# XAMPP / PHP
+/vendor/
+*.log
+*.cache
+
+# Environment
+.env
+config.local.php
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary
+/tmp/
+*.tmp
